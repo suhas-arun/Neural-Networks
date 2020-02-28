@@ -1,2 +1,3 @@
-# Neural-Networks
- 
+# Neural Networks
+
+Neural networks for my Waynflete Project.
